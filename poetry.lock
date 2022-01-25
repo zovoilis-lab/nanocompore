@@ -199,7 +199,7 @@ python-versions = ">=3.6"
 
 [[package]]
 name = "jsmin"
-version = "2.2.2"
+version = "3.0.1"
 description = "JavaScript minifier."
 category = "dev"
 optional = false
